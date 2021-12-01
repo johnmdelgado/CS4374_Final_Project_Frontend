@@ -1,0 +1,25 @@
+.header {
+  padding: 30px 20px;
+  background-color: rgb(0, 97, 161);
+}
+
+.title {
+  color: white;
+  text-decoration: none;
+}
+
+.login,
+.register {
+  float: right;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+}
+
+.logout,
+.new-post {
+  float: right;
+  text-decoration: none;
+  color: white;
+  padding-top: 10px;
+}
